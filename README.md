@@ -6,7 +6,7 @@
 
 # Splash Page Video
 
-:gift: Splash Page on Video. [FSR Components](https://github.com/fredsrocha/fsr-components "FSR Components")
+:gift: [FSR Components](https://github.com/fredsrocha/fsr-components "FSR Components")
 
 **VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-splash-page/)
 
