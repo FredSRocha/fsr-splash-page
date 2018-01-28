@@ -6,13 +6,13 @@
 
 # Splash Page on video
 
-:gift: Splash Page on video. [FSR Components](https://github.com/fredsrocha/fsr-components "FSR Components")
+:gift: Splash Page on Video. [FSR Components](https://github.com/fredsrocha/fsr-components "FSR Components")
 
 **VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-splash-page/)
 
-**ARTICLE:** [Splash Page on video](http://codepen.io/fredsrocha/post/splash-page)
+**ARTICLE:** [Splash Page on Video](http://codepen.io/fredsrocha/post/splash-page)
 
-**CODEPEN:** [Splash Page on video](https://codepen.io/fredsrocha/pen/NyKbXY)
+**CODEPEN:** [Splash Page on Video](https://codepen.io/fredsrocha/pen/NyKbXY)
 
 <table>
   <thead>
