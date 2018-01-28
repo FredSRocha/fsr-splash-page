@@ -4,9 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-ff8a65.svg?style=flat-square "License")
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=flat-square "Version")
 
-# Splash Page Video
-
-:gift: [FSR Components](https://github.com/fredsrocha/fsr-components "FSR Components")
+# Splash Page Video :gift: [FSR Components](https://github.com/fredsrocha/fsr-components "FSR Components")
 
 **VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-splash-page/)
 
