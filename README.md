@@ -4,15 +4,15 @@
 ![License](https://img.shields.io/badge/license-MIT-ff8a65.svg?style=flat-square "License")
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=flat-square "Version")
 
-# Splash Page on video
+# Splash Page Video
 
 :gift: Splash Page on Video. [FSR Components](https://github.com/fredsrocha/fsr-components "FSR Components")
 
 **VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-splash-page/)
 
-**ARTICLE:** [Splash Page on Video](http://codepen.io/fredsrocha/post/splash-page-video)
+**ARTICLE:** [Splash Page Video](http://codepen.io/fredsrocha/post/splash-page-video)
 
-**CODEPEN:** [Splash Page on Video](https://codepen.io/fredsrocha/pen/NyKbXY)
+**CODEPEN:** [Splash Page Video](https://codepen.io/fredsrocha/pen/NyKbXY)
 
 <table>
   <thead>
