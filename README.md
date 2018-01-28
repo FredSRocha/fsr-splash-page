@@ -10,7 +10,7 @@
 
 **VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-splash-page/)
 
-**ARTICLE:** [Splash Page on Video](http://codepen.io/fredsrocha/post/splash-page)
+**ARTICLE:** [Splash Page on Video](http://codepen.io/fredsrocha/post/splash-page-video)
 
 **CODEPEN:** [Splash Page on Video](https://codepen.io/fredsrocha/pen/NyKbXY)
 
