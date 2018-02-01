@@ -8,48 +8,26 @@
 
 ###### :gift: [FSR Components](https://github.com/fredsrocha/fsr-components "FSR Components")
 
-**VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-splash-page/)
+:octocat: **VIEW:** [GitHub Pages](https://fredsrocha.github.io/fsr-splash-page/)
 
-**ARTICLE:** [Splash Page Video](http://codepen.io/fredsrocha/post/splash-page-video)
+:pencil: **ARTICLE:** [Splash Page Video](http://codepen.io/fredsrocha/post/splash-page-video)
 
-**CODEPEN:** [Splash Page Video](https://codepen.io/fredsrocha/pen/NyKbXY)
+:rocket: **CODEPEN:** [Splash Page Video](https://codepen.io/fredsrocha/pen/NyKbXY)
 
-<table>
-  <thead>
-    <tr>
-      <th>Compatible browsers</th>
-      <th>Version</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Chrome</td>
-      <td>53+</td>
-    </tr>
-    <tr>
-      <td>Firefox</td>
-      <td>37+</td>
-    </tr>
-    <tr>
-      <td>Internet Explorer</td>
-      <td>11+</td>
-    </tr>
-    <tr>
-      <td>Opera</td>
-      <td>39+</td>
-    </tr>
-    <tr>
-      <td>Safari</td>
-      <td>5.1+</td>
-    </tr>
-    <tr>
-      <td>Edge</td>
-      <td>14.14+</td>
-    </tr>
-  </tbody>
-</table>
+## Browsers
+
+| Compatible | Version |
+| ------ | ----------- |
+| Chrome | 53+ |
+| Firefox | 37+ |
+| Internet Explorer | 11+ |
+| Opera | 39+ |
+| Safari | 5.1+ |
+| Edge | 14.14+ |
 
 ## Copyright and License
+
+<img src="https://octodex.github.com/images/dojocat.jpg" alt="Copyright and License, The Dojocat"  width="150" height="150" />
 
 &copy; 2017 [![Fred Rocha - Twitter](https://img.shields.io/twitter/follow/fredsrocha.svg?style=social&label=@fredsrocha)](https://twitter.com/fredsrocha)
  
